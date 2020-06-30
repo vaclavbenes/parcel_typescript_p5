@@ -6,6 +6,13 @@ Basic setup for parcel typescript and p5js lib
 
 install parcel v1
 
+## Install p5js
+
+```
+npm i p5
+```
+
+
 ```
 npm i parcel
 ```
