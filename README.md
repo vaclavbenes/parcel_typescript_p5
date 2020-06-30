@@ -21,8 +21,6 @@ npm i -g parcel
 npm i p5
 ```
 
-
-
 ### start
 
 ```bash
