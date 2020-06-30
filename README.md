@@ -21,4 +21,3 @@ parcel index.html
 ```
 npm i @types/p5
 ```
-# parcel_typescript_p5
